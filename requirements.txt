@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+transformers
+pandas
+pypdf
+pytest
+tokenizers
